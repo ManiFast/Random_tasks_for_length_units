@@ -1,0 +1,3 @@
+﻿  RandomPhysicsTasks--ENG.cpp
+C:\Users\karak\OneDrive\Desktop\pj\RandomPhysicsTasks--ENG\RandomPhysicsTasks--ENG\RandomPhysicsTasks--ENG.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RandomPhysicsTasks--ENG.vcxproj -> C:\Users\karak\OneDrive\Desktop\pj\RandomPhysicsTasks--ENG\x64\Debug\RandomPhysicsTasks--ENG.exe
